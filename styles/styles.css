@@ -1,0 +1,26 @@
+
+
+.title {
+  background-color: #3d84a8;
+  color: white;
+  font-size: 1.5rem;
+  margin: auto;
+  text-align: center;
+
+}
+
+.navbar {
+
+}
+.navbar-toggler, .navbar-toggler-icon {
+  color: red;
+}
+
+.fa-bars{
+  color:inherit;
+  font-weight: 100;
+}
+.fa-ellipsis-h {
+  color: red;
+  font-weight: 100;
+}
